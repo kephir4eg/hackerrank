@@ -1,7 +1,11 @@
 #ifndef BITHACKS_H
 #define BITHACKS_H
 
+<<<<<<< HEAD
 namespace bithacks
+=======
+namespace bithacks 
+>>>>>>> c04bd555d528cd9d7a0372c80fca9f05b7ccc7b1
 {
 
 /**
